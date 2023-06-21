@@ -41,8 +41,8 @@ to {background-position: -500px 0px;background-size:8000px;}
 }
 
 .center-container {
-    width: 350px; /* Adjust the width as per your preference */
-    height: 450px; /* Adjust the height as per your preference */
+    width: 350px;
+    height: 450px;
     background-color: white;
     position: absolute;
     top: 50%;
